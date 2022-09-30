@@ -1,6 +1,6 @@
 ### Hi, I'm Andrei — Welcome to my Github! 👋
 
-I am a former quantum physicist (click [here](https://dash.harvard.edu/handle/1/41121324) for my PhD dissertation) who has spent the last couple of years learning data science and machine learning.   Here are some of my individual data projects, from linear regression to natural language processing to deep learning.  My personal favorite is [Hoops Hero](https://github.com/andreilevin/HoopsHero), which also has an interactive web app you can play around with at [hoopshero.streamlitapp.com](https://hoopshero.streamlitapp.com).  You can watch a few of my (brief) project presentations in this [YouTube playlist](https://www.youtube.com/playlist?list=PLp0KPsix0c83NVM9DUZZZ6CvinG6qOK0M).
+I am a former quantum physicist (click [here](https://dash.harvard.edu/handle/1/41121324) for my PhD dissertation) who has spent the last couple years learning data science and machine learning.   Here are some of my individual data projects, from linear regression to natural language processing to deep learning.  My personal favorite is [Hoops Hero](https://github.com/andreilevin/HoopsHero), which also has an interactive web app you can play around with at [hoopshero.streamlitapp.com](https://hoopshero.streamlitapp.com).  You can watch a few of my (brief) project presentations in this [YouTube playlist](https://www.youtube.com/playlist?list=PLp0KPsix0c83NVM9DUZZZ6CvinG6qOK0M).
 
 <!--
 **andreilevin/andreilevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
