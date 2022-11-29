@@ -2,7 +2,7 @@
 
 📌 At this time I am actively seeking a job in quantitative finance (research or trading) in New York City; please do not hesitate to contact me with any leads!  My resume is available at [tinyurl.com/levinresume](https://tinyurl.com/levinresume)
 
-I am a former quantum physicist (click [here](https://dash.harvard.edu/handle/1/41121324) for my PhD thesis) who has spent the last couple years learning data science and machine learning.   Here are some of my individual data projects, from linear regression to natural language processing to deep learning.  My personal favorite is [Hoops Hero](https://github.com/andreilevin/HoopsHero#hoops-hero), which also has an interactive web app you can play around with at [hoopshero.streamlit.app](https://hoopshero.streamlit.app).  You can watch a few of my brief project presentations in this YouTube [playlist](https://www.youtube.com/playlist?list=PLp0KPsix0c83NVM9DUZZZ6CvinG6qOK0M).
+I am a former quantum physicist (click [here](https://dash.harvard.edu/handle/1/41121324) for my PhD thesis) who has spent the last couple years learning data science and machine learning.   Here are some of my individual data projects, from linear regression to natural language processing to deep learning.  My personal favorite is [Hoops Hero](https://github.com/andreilevin/HoopsHero#hoops-hero), which also has an interactive web app you can play around with at [hoopshero.streamlit.app](https://hoopshero.streamlit.app) (recently selected as a featured app in the [Streamlit Gallery](https://streamlit.io/gallery?category=sports-fun)!) .  You can watch a few of my brief project presentations in this YouTube [playlist](https://www.youtube.com/playlist?list=PLp0KPsix0c83NVM9DUZZZ6CvinG6qOK0M).
 
 
 <!--
