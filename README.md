@@ -1,6 +1,6 @@
 ### Hi, I'm Andrei — Welcome to my Github! 👋
 
-Here you can find some of the independent machine learning projects I pursued to flesh out my skillset while changing careers from experimental physics research to quantitative finance. My personal favorite is [Hoops Hero](https://github.com/andreilevin/HoopsHero#hoops-hero), which also has an interactive web app you can play around with at [hoopshero.streamlit.app](https://hoopshero.streamlit.app).  You can watch a few of my brief project presentations in this YouTube [playlist](https://www.youtube.com/playlist?list=PLp0KPsix0c83NVM9DUZZZ6CvinG6qOK0M).
+Here you can find some of the independent machine learning projects I pursued to flesh out my skillset while changing careers from experimental physics research to quantitative finance. My personal favorite is [Hoops Hero](https://github.com/andreilevin/HoopsHero#hoops-hero), which also has an interactive web app you can play around with at [hoopshero.streamlit.app](https://hoopshero.streamlit.app).  You can watch a few of my project presentations in this YouTube [playlist](https://www.youtube.com/playlist?list=PLp0KPsix0c83NVM9DUZZZ6CvinG6qOK0M).
 
 
 <!--
